@@ -4,10 +4,8 @@ Pre-requisites:
 1. Ubuntu machine must have internet connectivity.
 
 follow below steps on Ubuntu machines:
-1. go to /home/user_directory in your ubuntu machine
-    Example:  /home/John or /home/Calvin
     
-2. Run command in ubuntu terminal: wget https://raw.githubusercontent.com/s-mathur/FTP-Server/master/ftpserver_1.0_all.deb
+1. Run command in ubuntu terminal: wget https://raw.githubusercontent.com/s-mathur/FTP-Server/master/ftpserver_1.0_all.deb
 
-3. Run command:
+2. Run command:
     sudo dpkg -i ftpserver_1.0_all.deb
